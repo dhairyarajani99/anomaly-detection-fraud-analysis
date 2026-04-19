@@ -116,13 +116,13 @@ The dataset contains transaction-level data with the following key fields:
 Anomaly-Detection-Project/
 │
 ├── data/
-│   └── anomaly_detection_excel
+│   └── anomaly_detection_excel.csv
 │
 ├── sql/
-│   └── anomaly_detection_sql_queries
+│   └── anomaly_detection_sql_queries.sql
 │
 ├── dashboard/
-│   └── anomaly_detection_powerbi
+│   └── anomaly_detection_powerbi.pbix
 │
 ├── images/
 │   └── dashboard_preview.png
